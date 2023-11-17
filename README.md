@@ -1,1 +1,1 @@
-# django-form-recognizer
+# fastapi-form-recognizer
